@@ -6,7 +6,8 @@ a {
     text-decoration: none;
     color: #5D564C;
     font-size: 15px;
-    font-weight: bold;
+    font-weight: normal;
+    font-style: underline
     font-family: 'helvetica';
 }
 
