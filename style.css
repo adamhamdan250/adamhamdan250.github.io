@@ -1,24 +1,24 @@
 body {
-    background-color: #2A2E24;
+    background-color: #F0EBE5;
 }
 
 a {
     text-decoration: underline;
     color: #FAC09E;
     font-size: 15px;
-    font-family: 'helvetica';
+    font-family: 'roboto';
 }
 
 p {
-    color: #F5F4F4;
+    color: #1E1E24;
     font-size: 15px;
-    font-family: 'helvetica';
+    font-family: 'roboto';
 }
 
 
 h1 {
-    color: #F5F4F4;
-    font-family: 'helvetica';
+    color: #1E1E24;
+    font-family: 'roboto';
     font-weight: lighter;
     font-size: 30px;
     margin-top: 5%;
