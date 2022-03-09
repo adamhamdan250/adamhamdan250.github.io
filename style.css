@@ -3,24 +3,24 @@ body {
 }
 
 a {
-    text-decoration: underline;
+    text-decoration:none;
     color: #4A83D3;
-    font-size: 22px;
-    font-family: 'calibri';
+    font-size: 18px;
+    font-family: 'helvetica';
 }
 
 p {
     color: #1E1E24;
-    font-size: 22px;
-    font-family: 'calibri';
+    font-size: 18px;
+    font-family: 'helvetica';
 }
 
 
 h1 {
     color: #1E1E24;
-    font-family: 'calibri';
+    font-family: 'helvetica';
     font-weight: lighter;
-    font-size: 40px;
+    font-size: 30px;
     margin-top: 5%;
     margin-left: 5%;
 }
