@@ -1,26 +1,26 @@
 body {
-    background-color: #F0EBE5;
+    background-color: #FFFFFF;
 }
 
 a {
     text-decoration: underline;
-    color: #538030;
-    font-size: 15px;
-    font-family: 'roboto';
+    color: #4A83D3;
+    font-size: 22px;
+    font-family: 'calibri';
 }
 
 p {
     color: #1E1E24;
-    font-size: 15px;
-    font-family: 'roboto';
+    font-size: 22px;
+    font-family: 'calibri';
 }
 
 
 h1 {
     color: #1E1E24;
-    font-family: 'roboto';
+    font-family: 'calibri';
     font-weight: lighter;
-    font-size: 30px;
+    font-size: 40px;
     margin-top: 5%;
     margin-left: 5%;
 }
