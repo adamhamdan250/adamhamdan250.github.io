@@ -1,5 +1,5 @@
 body {
-    background-color: #FFFFFF;
+    background-color: #1F1D20;
 }
 
 a {
@@ -10,14 +10,14 @@ a {
 }
 
 p {
-    color: #1E1E24;
+    color: #FFFFFF;
     font-size: 18px;
     font-family: 'helvetica';
 }
 
 
 h1 {
-    color: #1E1E24;
+    color: #FFFFFF;
     font-family: 'helvetica';
     font-weight: bold;
     font-size: 30px;
