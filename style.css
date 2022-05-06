@@ -1,25 +1,27 @@
 body {
-    background-color: #1F1D20;
+    background-color: #FFFFFF;
 }
 
 a {
     text-decoration:none;
-    color: #8A8ABC;
+    color: #72804D;
     font-size: 18px;
     font-family: 'helvetica';
+    font-weight: lighter;
 }
 
 p {
-    color: #FFFFFF;
+    color: #2F2328;
     font-size: 18px;
     font-family: 'helvetica';
+    font-weight: lighter;
 }
 
 
 h1 {
-    color: #FFFFFF;
+    color: #2F2328;
     font-family: 'helvetica';
-    font-weight: bold;
+    font-weight: normal;
     font-size: 30px;
     margin-top: 5%;
     margin-left: 5%;
