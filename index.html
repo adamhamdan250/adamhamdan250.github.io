@@ -49,7 +49,29 @@
       </p>
     </div>
     <div id="image-about">
-      <img src="jeannemance.jpeg" onmouseover="this.src='fly.jpg'"onmouseout="this.src='jeannemance.jpeg'"alt="Montreal with Rasha"/>
+      <script>
+        var images = ['jeannemance.jpg','fly.jpg','water.jpg'];
+        var index = Math.floor(Math.random() * images.length);
+    
+        function buildImage() {
+      var img = document.createElement('img')
+      img.src = images[index];
+      document.getElementById('content').appendChild(img);
+    }
+
+    function changeImage(){
+      var img = document.getElementById('content').getElementsByTagName('img')[Math.floor(Math.random() * images.length)]
+      index++;
+      index = index % images.length; // This is for if this is the last image then goto first image
+      img.src = images[index];
+    }
+</script>
+
+<body 
+    onload="buildImage();">
+    <div class="contents" id="content"></div>
+    <button onclick="changeImage()">random picture</button>
+</body>
     </div>
     <div id="clear-about"></div>
   </div>
