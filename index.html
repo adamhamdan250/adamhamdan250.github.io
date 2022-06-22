@@ -49,34 +49,8 @@
       </p>
     </div>
     <div id="image-about">
-      <script>
-        var images = ['1.jpg','2.jpg','3.jpg','4.jpg'];
-        var index = Math.floor(Math.random() * images.length);
-    
-        function buildImage() {
-      var img = document.createElement('img')
-      img.src = images[index];
-      document.getElementById('content').appendChild(img);
-    }
-
-    function changeImage(){
-      var img = document.getElementById('content').getElementsByTagName('img')[Math.floor(Math.random() * images.length)]
-      index++;
-      index = index % images.length; // This is for if this is the last image then goto first image
-      img.src = images[index];
-    }
-</script>
-
-<body 
-    onload="buildImage();">
-    <div class="contents" id="content"></div>
-    <button style="background:#2F2328;
-    color:#FFFFFF;
-    font-size: 18px;
-    font-family: 'helvetica';
-    font-weight: lighter;"
-    onclick="changeImage()">random picture</button>
-</body>
+      <img src="rasha.jpg" onmouseover="this.src='cassecroute.jpg'"onmouseout="this.src='rasha.jpg'"alt="Rasha and I in a park"/>
+    </div>
     </div>
     <div id="clear-about"></div>
   </div>
