@@ -6,21 +6,21 @@ a {
     text-decoration:none;
     color: #72804D;
     font-size: 18px;
-    font-family: 'helvetica';
+    font-family: 'menlo';
     font-weight: lighter;
 }
 
 p {
     color: #2F2328;
     font-size: 18px;
-    font-family: 'helvetica';
+    font-family: 'menlo';
     font-weight: lighter;
 }
 
 
 h1 {
     color: #2F2328;
-    font-family: 'helvetica';
+    font-family: 'menlo';
     font-weight: normal;
     font-size: 30px;
     margin-top: 5%;
