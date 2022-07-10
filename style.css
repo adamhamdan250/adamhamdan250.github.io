@@ -5,24 +5,24 @@ body {
 a {
     text-decoration:none;
     color: #72804D;
-    font-size: 18px;
-    font-family: 'menlo';
+    font-size: 16px;
+    font-family: 'helvetica';
     font-weight: lighter;
 }
 
 p {
     color: #2F2328;
-    font-size: 18px;
-    font-family: 'menlo';
+    font-size: 16px;
+    font-family: 'helvetica';
     font-weight: lighter;
 }
 
 
 h1 {
     color: #2F2328;
-    font-family: 'menlo';
+    font-family: 'helvetica';
     font-weight: normal;
-    font-size: 30px;
+    font-size: 28px;
     margin-top: 5%;
     margin-left: 5%;
 }
