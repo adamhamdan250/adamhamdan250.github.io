@@ -1,17 +1,17 @@
 body {
-    background-color: #433D37;
+    background-color: #FFFFFF;
 }
 
 a {
     text-decoration:underline;
-    color: #E3E0DD;
+    color: #242423;
     font-size: 16px;
     font-family: 'menlo';
     font-weight: lighter;
 }
 
 p {
-    color: #E3E0DD;
+    color: #242423;
     font-size: 16px;
     font-family: 'menlo';
     font-weight: lighter;
@@ -19,7 +19,7 @@ p {
 
 
 h1 {
-    color: #F6F5F4;
+    color: #242423;
     font-family: 'helvetica';
     font-weight: normal;
     font-size: 28px;
