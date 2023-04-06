@@ -40,7 +40,7 @@ h1 {
 }
 
 img {
-    width: 50px;
+    width: 350px;
     height: auto;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -53,6 +53,7 @@ img {
 }
 
 #text-about {
+    float: left;
     width: auto;
     padding-top: 2px;
 }
