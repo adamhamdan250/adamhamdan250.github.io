@@ -19,17 +19,18 @@ p {
 
 
 h1 {
+    max-width: 500px;
+    margin: auto;
     color: #242423;
     font-family: 'helvetica';
     font-weight: normal;
     font-size: 24px;
     margin-top: 5%;
-    margin-left: 5%;
 }
 
 nav {
-    margin-top: 5%;
-    margin-left: 5%;
+    max-width: 500px;
+    margin: auto;
 }
 
 /* about.html */
@@ -52,13 +53,17 @@ img {
 }
 
 #image-about {
-    float: left;
+    max-width: 500px;
+    margin: auto;
+    float: center;
     width: auto;
     padding-top: 2px;
 }
 
 #text-about {
-    float: left;
+    max-width: 500px;
+    margin: auto;
+    float: center;
     width: auto;
     padding-top: 2px;
 }
