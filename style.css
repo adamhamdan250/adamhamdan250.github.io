@@ -48,7 +48,8 @@ nav {
 }
 
 img {
-    width: auto;
+    float: center;
+    width: 350px;
     height: auto;
     padding-top: 15px;
     padding-bottom: 15px;
