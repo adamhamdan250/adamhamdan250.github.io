@@ -52,20 +52,9 @@ img {
     padding-bottom: 15px;
 }
 
-#image-about {
-    max-width: 500px;
-    margin: auto;
-    float: center;
-    width: auto;
-    padding-top: 2px;
-}
-
-#text-about {
-    max-width: 500px;
-    margin: auto;
-    float: center;
-    width: auto;
-    padding-top: 2px;
+#content {
+     max-width: 500px;
+     margin: auto;
 }
 
 #clear-about {
