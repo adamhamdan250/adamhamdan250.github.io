@@ -49,8 +49,8 @@ nav {
 
 img {
     float: center;
-    width: 350px;
-    height: auto;
+    width: auto;
+    height: 400px;
     padding-top: 15px;
     padding-bottom: 15px;
 }
