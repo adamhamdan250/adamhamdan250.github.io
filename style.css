@@ -60,3 +60,7 @@ img {
 #clear-about {
     clear: both;
 }
+
+::selection {
+  background: #F0766A;
+}
