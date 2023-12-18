@@ -67,3 +67,5 @@ img {
 ::selection {
   background: #ECD6C0;
 }
+
+<span style="white-space: pre-line">@Model.CommentText</span>
