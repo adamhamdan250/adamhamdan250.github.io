@@ -4,14 +4,14 @@ body {
 
 a {
     text-decoration:underline;
-    color: #242423;
+    color: #1F1E1F;
     font-size: 16px;
     font-family: helvetica;
     font-weight: lighter;
 }
 
 p {
-    color: #242423;
+    color: #1F1E1F;
     font-family: helvetica;
     font-size: 16px;
     font-weight: lighter;
@@ -22,11 +22,21 @@ h1 {
     max-width: 500px;
     float: center;
     margin: auto;
-    color: #242423;
+    color: #1F1E1F;
     font-family: helvetica;
     font-weight: normal;
     font-size: 28px;
     margin-top: 7%;
+}
+
+h2 {
+    max-width: 500px;
+    float: center;
+    margin: auto;
+    color: #1F1E1F;
+    font-family: helvetica;
+    font-weight: normal;
+    font-size: 20px;
 }
 
 nav {
@@ -67,5 +77,3 @@ img {
 ::selection {
   background: #ECD6C0;
 }
-
-<span style="white-space: pre-line">@Model.CommentText</span>
