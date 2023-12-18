@@ -17,9 +17,17 @@ p {
     font-weight: lighter;
 }
 
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #FFFFFF;
+    color: #1F1E1F;
+    padding: 10px;
+}
 
 h1 {
-    position: fixed;
     margin-top: 7%;
     max-width: 500px;
     margin: auto;
