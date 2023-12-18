@@ -31,9 +31,10 @@ h1 {
     color: #1F1E1F;
     font-family: helvetica;
     font-weight: normal;
-    font-size: 28px;
+    font-size: 25px;
     border-bottom: 1px black;
     text-align: left;
+    padding-left: 10px;
 }
 
 nav {
