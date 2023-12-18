@@ -27,6 +27,7 @@ h1 {
     font-weight: normal;
     font-size: 28px;
     margin-top: 7%;
+    margin-top: 3%;
 }
 
 nav {
@@ -36,7 +37,7 @@ nav {
 }
 
 /* about.html */
-.border-about {
+/*.border-about {
     margin-top: 1%;
     margin-left: 7%;
     margin-right: 20%;
@@ -45,7 +46,7 @@ nav {
     border-style: none;
     border-width: 1px;
     text-align: center;
-}
+}*/
 
 img {
     float: center;
