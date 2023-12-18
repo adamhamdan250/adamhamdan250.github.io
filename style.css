@@ -6,11 +6,13 @@ a {
     text-decoration:underline;
     color: #242423;
     font-size: 16px;
+    font-family: helvetica;
     font-weight: lighter;
 }
 
 p {
     color: #242423;
+    font-family: helvetica;
     font-size: 16px;
     font-weight: lighter;
 }
@@ -21,7 +23,7 @@ h1 {
     float: center;
     margin: auto;
     color: #242423;
-    font-family: sans-serif;
+    font-family: helvetica;
     font-weight: normal;
     font-size: 28px;
     margin-top: 5%;
@@ -36,7 +38,7 @@ nav {
 /* about.html */
 .border-about {
     margin-top: 1%;
-    margin-left: 4%;
+    margin-left: 10%;
     margin-right: 20%;
     padding-right: 1%;
     padding-left: 1%;
@@ -55,7 +57,7 @@ img {
 
 #content {
      max-width: 500px;
-     margin-left: 4%;
+     margin-left: 10%;
 }
 
 #clear-about {
