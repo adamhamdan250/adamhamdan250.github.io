@@ -19,6 +19,7 @@ p {
 
 
 h1 {
+    position: fixed;
     margin-top: 7%;
     max-width: 500px;
     margin: auto;
@@ -26,6 +27,7 @@ h1 {
     font-family: helvetica;
     font-weight: normal;
     font-size: 28px;
+    border-bottom: 1px black;
 }
 
 h2 {
