@@ -28,14 +28,12 @@ header {
 }
 
 h1 {
-    margin-top: 7%;
-    max-width: 500px;
-    margin: auto;
     color: #1F1E1F;
     font-family: helvetica;
     font-weight: normal;
     font-size: 28px;
     border-bottom: 1px black;
+    text-align: left;
 }
 
 nav {
