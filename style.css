@@ -19,8 +19,8 @@ p {
 
 
 h1 {
+    margin-left: 7%;
     max-width: 500px;
-    float: center;
     margin: auto;
     color: #1F1E1F;
     font-family: helvetica;
@@ -42,18 +42,6 @@ nav {
     max-width: 500px;
     float: center;
     margin: auto;
-}
-
-/* about.html */
-.border-about {
-    margin-top: 1%;
-    margin-left: 7%;
-    margin-right: 20%;
-    padding-right: 1%;
-    padding-left: 1%;
-    border-style: none;
-    border-width: 1px;
-    text-align: center;
 }
 
 img {
