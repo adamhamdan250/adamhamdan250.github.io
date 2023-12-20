@@ -19,12 +19,12 @@ p {
 
 h1 {
     color: #1F1E1F;
-    font-family: helvetica;
+    font-family: sans-serif;
     font-weight: normal;
     font-size: 24px;
     text-align: left;
-    padding: 10px;
     margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 nav {
