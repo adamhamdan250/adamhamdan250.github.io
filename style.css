@@ -4,21 +4,21 @@ body {
 
 a {
     text-decoration:underline;
-    color: #1F1E1F;
+    color: #141414;
     font-size: 16px;
     font-family: helvetica;
     font-weight: lighter;
 }
 
 p {
-    color: #1F1E1F;
+    color: #141414;
     font-family: helvetica;
     font-size: 16px;
     font-weight: lighter;
 }
 
 h1 {
-    color: #1F1E1F;
+    color: #333333;
     font-family: sans-serif;
     font-weight: normal;
     font-size: 24px;
@@ -28,7 +28,7 @@ h1 {
 }
 
 h2 {
-    color: #1F1E1F;
+    color: #333333;
     font-family: sans-serif;
     font-weight: normal;
     font-size: 20px;
@@ -53,7 +53,7 @@ img {
 
 #content {
      max-width: 1000px;
-     margin-left: 20px;
+     margin-left: 40px;
 }
 
 #clear-about {
