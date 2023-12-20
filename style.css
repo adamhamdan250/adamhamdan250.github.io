@@ -41,6 +41,16 @@ h2 {
     margin-top: 20px;
 }
 
+h3 {
+    color: #292929;
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+    text-align: left;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
 nav {
     max-width: 500px;
     float: center;
