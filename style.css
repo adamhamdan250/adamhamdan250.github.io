@@ -4,7 +4,7 @@ body {
 
 a {
     text-decoration: none;
-    color: #BD490F;
+    color: #744457;
     font-size: 16px;
     font-family: helvetica;
     font-weight: lighter;
@@ -75,5 +75,5 @@ img {
 }
 
 ::selection {
-  background: #F7D4CA;
+  background: #EFE6EA;
 }
