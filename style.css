@@ -4,25 +4,25 @@ body {
 
 a {
     text-decoration:none;
-    color: #878282;
+    color: #C2C2C2;
     font-size: 16px;
     font-family: helvetica;
     font-weight: bold;
 }
 
 a:hover {
-  color: #7C505C;
+  color: #657B67;
 }
 
 p {
-    color: #141414;
+    color: #292929;
     font-family: helvetica;
     font-size: 16px;
     font-weight: normal;
 }
 
 h1 {
-    color: #333333;
+    color: #292929;
     font-family: sans-serif;
     font-weight: normal;
     font-size: 24px;
@@ -32,7 +32,7 @@ h1 {
 }
 
 h2 {
-    color: #333333;
+    color: #292929;
     font-family: sans-serif;
     font-weight: normal;
     font-size: 20px;
@@ -65,5 +65,5 @@ img {
 }
 
 ::selection {
-  background: #DFCDD2;
+  background: #D2DAD3;
 }
