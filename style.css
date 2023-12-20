@@ -13,7 +13,7 @@ a {
 p {
     color: #1F1E1F;
     font-family: helvetica;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: lighter;
 }
 
@@ -24,7 +24,7 @@ h1 {
     font-size: 24px;
     text-align: left;
     margin-bottom: 20px;
-    margin-top: 20px;
+    margin-top: 40px;
 }
 
 h2 {
