@@ -3,11 +3,14 @@ body {
 }
 
 a {
-    text-decoration:underline;
     color: #141414;
     font-size: 16px;
     font-family: helvetica;
-    font-weight: lighter;
+    font-weight: bold;
+}
+
+a:hover {
+  color: #3E282D;
 }
 
 p {
@@ -61,5 +64,5 @@ img {
 }
 
 ::selection {
-  background: #BDC7C4;
+  background: #DFCDD2;
 }
