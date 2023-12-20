@@ -3,14 +3,14 @@ body {
 }
 
 a {
-    color: #141414;
+    color: #878282;
     font-size: 16px;
     font-family: helvetica;
     font-weight: bold;
 }
 
 a:hover {
-  color: #3E282D;
+  color: #7C505C;
 }
 
 p {
