@@ -4,7 +4,7 @@ body {
 
 a {
     text-decoration: underline;
-    color: #8F8F8F;
+    color: #292929;
     font-size: 16px;
     font-family: helvetica;
     font-weight: lighter;
@@ -65,5 +65,5 @@ img {
 }
 
 ::selection {
-  background: #D2DAD3;
+  background: #FFCDAD;
 }
