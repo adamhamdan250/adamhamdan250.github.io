@@ -4,21 +4,21 @@ body {
 
 a {
     text-decoration: underline;
-    color: #C2C2C2;
+    color: #8F8F8F;
     font-size: 16px;
     font-family: helvetica;
-    font-weight: normal;
+    font-weight: lighter;
 }
 
 a:hover {
-  color: #657B67;
+  color: #292929;
 }
 
 p {
     color: #292929;
     font-family: helvetica;
     font-size: 16px;
-    font-weight: normal;
+    font-weight: lighter;
 }
 
 h1 {
