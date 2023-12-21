@@ -1,5 +1,14 @@
-body {
+body{
     background-color: #FFFFFF;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+footer{
+    margin-top: auto;
+    margin-left: 40px;
+    margin-bottom: 20px
 }
 
 a {
@@ -42,7 +51,7 @@ h2 {
 }
 
 h3 {
-    color: #762E41;
+    color: #292929;
     font-family: sans-serif;
     font-weight: normal;
     font-size: 16px;
