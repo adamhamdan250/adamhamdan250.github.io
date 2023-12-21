@@ -4,10 +4,10 @@ body {
 
 a {
     text-decoration: none;
-    color: #744457;
+    color: #292929;
     font-size: 16px;
     font-family: helvetica;
-    font-weight: lighter;
+    font-weight: normal;
 }
 
 a:hover {
@@ -75,5 +75,5 @@ img {
 }
 
 ::selection {
-  background: #EFE6EA;
+  background: #FFD199;
 }
