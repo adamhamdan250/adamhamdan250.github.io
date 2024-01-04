@@ -1,5 +1,5 @@
 body{
-    background-color: #FFFFFF;
+    background-color: #FFFFFF; 
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -8,15 +8,24 @@ body{
 footer{
     margin-top: auto;
     margin-left: 40px;
-    margin-bottom: 20px
+    margin-bottom: 20px;
+    margin-top: 60px
 }
 
 a {
     text-decoration: none;
+    color: #3E8E6B;
+    font-size: 16px;
+    font-family: helvetica;
+    font-weight: 500;
+}
+
+b {
+    text-decoration: none;
     color: #292929;
     font-size: 16px;
     font-family: helvetica;
-    font-weight: normal;
+    font-weight: 500;
 }
 
 a:hover {
@@ -27,36 +36,36 @@ p {
     color: #292929;
     font-family: helvetica;
     font-size: 16px;
-    font-weight: lighter;
+    font-weight: 300;
+    margin-bottom: 40px;
+}
+
+i {
+    margin-left: 10px;
+    color: #292929;
+    font-family: helvetica;
+    font-size: 16px;
+    font-weight: 300;
+    margin-bottom: 40px;
 }
 
 h1 {
     color: #292929;
-    font-family: sans-serif;
-    font-weight: normal;
+    font-family: helvetica;
+    font-weight: 500;
     font-size: 24px;
     text-align: left;
-    margin-bottom: 20px;
-    margin-top: 40px;
+    margin-bottom: 30px;
+    margin-top: 30px;
 }
 
 h2 {
     color: #292929;
-    font-family: sans-serif;
+    font-family: helvetica;
     font-weight: normal;
     font-size: 20px;
     text-align: left;
     margin-bottom: 40px;
-    margin-top: 20px;
-}
-
-h3 {
-    color: #292929;
-    font-family: sans-serif;
-    font-weight: normal;
-    font-size: 16px;
-    text-align: left;
-    margin-bottom: 20px;
     margin-top: 20px;
 }
 
@@ -75,7 +84,7 @@ img {
 }
 
 #content {
-     max-width: 1000px;
+     max-width: 800px;
      margin-left: 40px;
 }
 
@@ -84,5 +93,6 @@ img {
 }
 
 ::selection {
-  background: #FAC8B2;
+  background: #C7E5D9; /* peach: #FAC8B2 */ 
 }
+
