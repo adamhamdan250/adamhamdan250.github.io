@@ -1,5 +1,6 @@
 body{
     background-color: #FFFFFF; 
+    font-family: "Computer Modern Sans", sans-serif;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -20,7 +21,6 @@ a {
     text-decoration: none;
     color: #3E8E6B;
     font-size: 16px;
-    font-family: helvetica;
     font-weight: 500;
 }
 
@@ -28,8 +28,7 @@ b {
     text-decoration: none;
     color: #292929;
     font-size: 16px;
-    font-family: helvetica;
-    font-weight: 500;
+    font-weight: normal;
 }
 
 a:hover {
@@ -38,24 +37,13 @@ a:hover {
 
 p {
     color: #292929;
-    font-family: helvetica;
     font-size: 16px;
-    font-weight: 300;
-    margin-bottom: 40px;
-}
-
-i {
-    margin-left: 10px;
-    color: #292929;
-    font-family: helvetica;
-    font-size: 16px;
-    font-weight: 300;
+    font-weight: lighter;
     margin-bottom: 40px;
 }
 
 h1 {
     color: #292929;
-    font-family: helvetica;
     font-weight: 500;
     font-size: 24px;
     text-align: left;
@@ -65,7 +53,6 @@ h1 {
 
 h2 {
     color: #292929;
-    font-family: helvetica;
     font-weight: normal;
     font-size: 20px;
     text-align: left;
@@ -99,4 +86,5 @@ img {
 ::selection {
   background: #C7E5D9; /* peach: #FAC8B2 */ 
 }
+
 
