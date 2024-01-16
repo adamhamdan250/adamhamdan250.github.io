@@ -20,14 +20,14 @@ details{
 a {
     text-decoration: none;
     color: #3E8E6B;
-    font-size: 16px;
+    font-size: 17px;
     font-weight: 500;
 }
 
 b {
     text-decoration: none;
     color: #292929;
-    font-size: 16px;
+    font-size: 17px;
     font-weight: normal;
 }
 
@@ -37,7 +37,7 @@ a:hover {
 
 p {
     color: #292929;
-    font-size: 16px;
+    font-size: 17px;
     font-weight: lighter;
     margin-bottom: 40px;
 }
@@ -45,7 +45,7 @@ p {
 h1 {
     color: #292929;
     font-weight: 500;
-    font-size: 24px;
+    font-size: 26px;
     text-align: left;
     margin-bottom: 30px;
     margin-top: 30px;
@@ -54,7 +54,7 @@ h1 {
 h2 {
     color: #292929;
     font-weight: normal;
-    font-size: 20px;
+    font-size: 22px;
     text-align: left;
     margin-bottom: 40px;
     margin-top: 20px;
