@@ -19,7 +19,7 @@ details{
 
 a {
     text-decoration: none;
-    color: #3E8E6B;
+    color: #CC3E61; /* green: #3E8E6B, pink: #CC3E61*/
     font-size: 17px;
     font-weight: 500;
 }
@@ -85,7 +85,7 @@ img {
 }
 
 ::selection {
-  background: #C7E5D9; /* peach: #FAC8B2 */ 
+  background: #F5D7DE; /* green: #C7E5D9, pink: #F5D7DE */
 }
 
 
