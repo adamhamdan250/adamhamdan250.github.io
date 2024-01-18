@@ -18,10 +18,30 @@ details{
 }
 
 a {
+    position: relative;
+    color: #CC3E61;
     text-decoration: none;
-    color: #CC3E61; /* green: #3E8E6B, pink: #CC3E61*/
-    font-size: 17px;
-    font-weight: 500;
+}
+  
+a:hover {
+    color: #CC3E61;
+}
+  
+a::before {
+    content: "";
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: #CC3E61;
+    transform: scaleX(0);
+    transition: transform 0.3s ease;
+}
+  
+a:hover::before {
+    transform: scaleX(1);
 }
 
 b {
@@ -29,10 +49,6 @@ b {
     color: #292929;
     font-size: 17px;
     font-weight: normal;
-}
-
-a:hover {
-  text-decoration: underline;
 }
 
 p {
