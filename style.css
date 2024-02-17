@@ -101,7 +101,14 @@ img {
 }
 
 ::selection {
-  background: #F5D7DE; /* green: #C7E5D9, pink: #F5D7DE */
+  color: white;
+  background: #292929; /* green: #C7E5D9, pink: #F5D7DE */
+}
+
+hr { 
+    background-color: #cecece; 
+    height: 1px; 
+    border: 0; 
 }
 
 
