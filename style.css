@@ -83,7 +83,7 @@ nav {
 }
 
 img {
-    /*border-radius: 50%; */
+    border-radius: 50%;
     float: center;
     width: auto;
     height: 200px;
