@@ -54,14 +54,14 @@ b {
 p {
     color: #292929;
     font-size: 17px;
-    font-weight: lighter;
+    font-weight: normal;
     margin-bottom: 40px;
 }
 
 h1 {
     color: #292929;
-    font-weight: 500;
-    font-size: 26px;
+    font-weight: normal;
+    font-size: 30px;
     text-align: left;
     margin-bottom: 30px;
     margin-top: 30px;
@@ -87,7 +87,7 @@ img {
     float: center;
     width: auto;
     height: 200px;
-    padding-top: 15px;
+    padding: 15px;
     padding-bottom: 15px;
 }
 
@@ -102,13 +102,28 @@ img {
 
 ::selection {
   color: white;
-  background: #292929; /* green: #C7E5D9, pink: #F5D7DE */
+  background: #47424C; /* green: #C7E5D9, pink: #F5D7DE */
 }
 
 hr { 
     background-color: #cecece; 
     height: 1px; 
     border: 0; 
+}
+
+#container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+#container p {
+    color: #292929;
+    font-size: 17px;
+    font-weight: normal;
+    margin-left: 40px;
+    margin-top: 40px
 }
 
 
