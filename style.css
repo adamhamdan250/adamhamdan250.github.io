@@ -1,6 +1,6 @@
 body{
     background-color: #FFFFFF; 
-    font-family: "Computer Modern Sans", sans-serif;
+    font-family: "system-ui";/* "Computer Modern sans", sans-serif; */ 
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -8,7 +8,6 @@ body{
 
 footer{
     margin-top: auto;
-    margin-left: 40px;
     margin-bottom: 20px;
     margin-top: 60px
 }
@@ -17,14 +16,20 @@ details{
     margin-bottom: 40px;
 }
 
+details > *:not(summary){
+    margin-left: 40px;
+    color: #747474;
+    font-size: 16px;
+}
+
 a {
     position: relative;
-    color: #CC3E61;
+    color: #cc3e43;
     text-decoration: none;
 }
   
 a:hover {
-    color: #CC3E61;
+    color: #cc3e43;
 }
   
 a::before {
@@ -35,7 +40,7 @@ a::before {
     height: 2px;
     bottom: 0;
     left: 0;
-    background-color: #CC3E61;
+    background-color: #cc3e43; /* #3d9874*/
     transform: scaleX(0);
     transition: transform 0.3s ease;
 }
@@ -47,19 +52,30 @@ a:hover::before {
 b {
     text-decoration: none;
     color: #292929;
+    font-size: 18px;
     font-size: 17px;
     font-weight: normal;
 }
 
+abstract {
+    color: #747474;
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: normal;
+    margin-bottom: 40px;
+}
+
 p {
     color: #292929;
-    font-size: 17px;
+    line-height: 30px;
+    font-size: 18px;
     font-weight: normal;
     margin-bottom: 40px;
 }
 
 h1 {
     color: #292929;
+    /* font-family: "Computer Modern sans", sans-serif; LATEX FONT */ 
     font-weight: normal;
     font-size: 30px;
     text-align: left;
@@ -87,13 +103,13 @@ img {
     float: center;
     width: auto;
     height: 200px;
-    padding: 15px;
-    padding-bottom: 15px;
+    padding: 20px;
+    padding-bottom: 10px;
 }
 
 #content {
      max-width: 800px;
-     margin-left: 40px;
+     margin-left: 80px;
 }
 
 #clear-about {
@@ -106,7 +122,7 @@ img {
 }
 
 hr { 
-    background-color: #cecece; 
+    background-color: #dddddd; 
     height: 1px; 
     border: 0; 
 }
@@ -120,10 +136,10 @@ hr {
 
 #container p {
     color: #292929;
-    font-size: 17px;
+    font-size: 18px;
     font-weight: normal;
     margin-left: 40px;
-    margin-top: 40px
+    margin-top: 60px
 }
 
 
