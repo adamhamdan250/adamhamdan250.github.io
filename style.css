@@ -54,29 +54,21 @@ b {
     color: #292929;
     font-size: 18px;
     font-size: 17px;
-    font-weight: normal;
-}
-
-abstract {
-    color: #747474;
-    line-height: 30px;
-    font-size: 18px;
-    font-weight: normal;
-    margin-bottom: 40px;
+    font-weight: 300;
 }
 
 p {
     color: #292929;
     line-height: 30px;
     font-size: 18px;
-    font-weight: normal;
+    font-weight: 300;
     margin-bottom: 40px;
 }
 
 h1 {
     color: #292929;
     /* font-family: "Computer Modern sans", sans-serif; LATEX FONT */ 
-    font-weight: normal;
+    font-weight: 300;
     font-size: 30px;
     text-align: left;
     margin-bottom: 30px;
@@ -85,7 +77,7 @@ h1 {
 
 h2 {
     color: #292929;
-    font-weight: normal;
+    font-weight: 300;
     font-size: 22px;
     text-align: left;
     margin-bottom: 40px;
@@ -137,9 +129,10 @@ hr {
 #container p {
     color: #292929;
     font-size: 18px;
-    font-weight: normal;
+    font-weight: 300;
     margin-left: 40px;
     margin-top: 60px
 }
+
 
 
