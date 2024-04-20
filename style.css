@@ -67,7 +67,7 @@ p {
 
 h1 {
     color: #292929;
-    /* font-family: "Computer Modern sans", sans-serif; LATEX FONT */ 
+    font-family: "Computer Modern sans", sans-serif; 
     font-weight: 400;
     font-size: 30px;
     text-align: left;
