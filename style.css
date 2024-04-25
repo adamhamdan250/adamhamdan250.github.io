@@ -24,12 +24,12 @@ details > *:not(summary){
 
 a {
     position: relative;
-    color: #cc3e43;
+    color: #0b9286;
     text-decoration: none;
 }
   
 a:hover {
-    color: #cc3e43;
+    color: #105f59;
 }
   
 a::before {
@@ -40,7 +40,7 @@ a::before {
     height: 2px;
     bottom: 0;
     left: 0;
-    background-color: #cc3e43; /* #3d9874*/
+    background-color: #105f59; /* #3d9874*/
     transform: scaleX(0);
     transition: transform 0.3s ease;
 }
