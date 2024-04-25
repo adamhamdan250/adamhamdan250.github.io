@@ -29,7 +29,7 @@ a {
 }
   
 a:hover {
-    color: #292929;
+    color: #7e153b;
 }
   
 a::before {
@@ -40,7 +40,7 @@ a::before {
     height: 2px;
     bottom: 0;
     left: 0;
-    background-color: #292929; /* #3d9874*/
+    background-color: #7e153b; /* #3d9874*/
     transform: scaleX(0);
     transition: transform 0.3s ease;
 }
