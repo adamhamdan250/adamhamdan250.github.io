@@ -30,7 +30,7 @@ a {
 }
   
 a:hover {
-    color: rgb(199, 77, 110);
+    color: #292929;
 }
   
 a::before {
@@ -41,7 +41,7 @@ a::before {
     height: 2px;
     bottom: 0;
     left: 0;
-    background-color: rgb(199, 77, 110); /* #3d9874*/
+    background-color: #292929; /* #3d9874*/
     transform: scaleX(0);
     transition: transform 0.3s ease;
 }
