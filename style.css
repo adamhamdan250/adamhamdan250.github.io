@@ -24,8 +24,8 @@ details > *:not(summary){
 
 a {
     position: relative;
-    font-weight: bolder;
-    color: #979797; /* pine green: #128e81 */
+    font-weight: 300;
+    color: #3d9874; /* pine green: #128e81 */
     text-decoration: none;
 }
   
@@ -54,20 +54,20 @@ b {
     text-decoration: none;
     color: #292929;
     font-size: 18px;
-    font-weight: 300;
+    font-weight: 200;
 }
 
 p {
     color: #292929;
     line-height: 30px;
     font-size: 18px;
-    font-weight: 300;
+    font-weight: 200;
     margin-bottom: 40px;
 }
 
 h1 {
     color: #292929;
-    font-weight: 400;
+    font-weight: 300;
     font-size: 27px;
     text-align: left;
     margin-bottom: 30px;
@@ -77,7 +77,7 @@ h1 {
 h2 {
     color: #292929;
     font-family: "system-ui";/* "Computer Modern sans", sans-serif; /*"Palatino"/* */
-    font-weight: 400;
+    font-weight: 300;
     font-size: 24px;
     text-align: left;
     margin-bottom: 40px;
@@ -129,7 +129,7 @@ hr {
 #container p {
     color: #292929;
     font-size: 18px;
-    font-weight: 300;
+    font-weight: 200;
     margin-left: 40px;
     margin-top: 60px
 }
