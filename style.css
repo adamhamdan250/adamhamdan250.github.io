@@ -25,12 +25,12 @@ details > *:not(summary){
 a {
     position: relative;
     font-weight: 300;
-    color: #3d9874; /* pine green: #128e81 */
+    color: rgb(209, 86, 117); /* cerise: #C24762, pine green: #128e81, seagreen: #3d9874*/
     text-decoration: none;
 }
   
 a:hover {
-    color: #292929;
+    color: rgb(209, 86, 117);
 }
   
 a::before {
@@ -41,7 +41,7 @@ a::before {
     height: 2px;
     bottom: 0;
     left: 0;
-    background-color: #292929; /* #3d9874*/
+    background-color: rgb(209, 86, 117); 
     transform: scaleX(0);
     transition: transform 0.3s ease;
 }
