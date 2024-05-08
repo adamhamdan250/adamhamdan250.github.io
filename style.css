@@ -59,7 +59,7 @@ b {
 
 p {
     color: #292929;
-    line-height: 30px;
+    line-height: 25px;
     font-size: 18px;
     font-weight: 200;
     margin-bottom: 40px;
@@ -109,8 +109,7 @@ img {
 }
 
 ::selection {
-  color: black;
-  background: #fbf5f6; /* green: #C7E5D9, pink: #F5D7DE */
+  background: #E0E0E0; /* green: #C7E5D9, pink: #F5D7DE */
 }
 
 hr { 
