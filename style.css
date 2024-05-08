@@ -1,5 +1,5 @@
 body{
-    background-color: #FFFFFF; 
+    background-color: #f7f7f7; 
     font-family: "system-ui";/* "Computer Modern sans", sans-serif; /*"Palatino"/* */ 
     min-height: 100vh;
     display: flex;
@@ -25,15 +25,15 @@ details > *:not(summary){
 a {
     position: relative;
     font-weight: 300;
-    color: rgb(209, 86, 117); /* cerise: #C24762, pine green: #128e81, seagreen: #3d9874*/
+    color: #ac4857; /* pine green: #128e81, seagreen: #3d9874*/
     text-decoration: none;
 }
   
 a:hover {
-    color: rgb(209, 86, 117);
+    color: #ff5d75; /* cerise: #ff5d75 */
 }
   
-a::before {
+/* a::before {
     content: "";
     position: absolute;
     display: block;
@@ -41,10 +41,10 @@ a::before {
     height: 2px;
     bottom: 0;
     left: 0;
-    background-color: rgb(209, 86, 117); 
+    background-color: #eb546b; 
     transform: scaleX(0);
     transition: transform 0.3s ease;
-}
+} */
   
 a:hover::before {
     transform: scaleX(1);
@@ -109,8 +109,8 @@ img {
 }
 
 ::selection {
-  color: white;
-  background: #292929; /* green: #C7E5D9, pink: #F5D7DE */
+  color: black;
+  background: #fbf5f6; /* green: #C7E5D9, pink: #F5D7DE */
 }
 
 hr { 
