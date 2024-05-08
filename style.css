@@ -30,7 +30,7 @@ a {
 }
   
 a:hover {
-    color: #ff5d75; /* cerise: #ff5d75 */
+    color: #ff4964; /* cerise: #ff5d75 */
 }
   
 /* a::before {
@@ -71,7 +71,7 @@ h1 {
     font-size: 27px;
     text-align: left;
     margin-bottom: 30px;
-    margin-top: 30px;
+    margin-top: 40px;
 }
 
 h2 {
