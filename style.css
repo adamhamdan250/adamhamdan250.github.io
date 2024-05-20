@@ -1,6 +1,6 @@
 body{
     background-color: #f9f9f9; 
-    font-family: "system-ui";/* "Computer Modern sans", sans-serif; /*"Palatino"/* */ 
+    font-family: "Computer Modern Serif", serif; /* "system-ui", sans-serif; /*"Palatino"/* */ 
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -31,7 +31,7 @@ a {
 }
   
 a:hover {
-    color: #ec386e; /* red: #ff4964, cerise: #ff5d75 */
+    color: rgb(64, 141, 112); /* red: #ff4964, cerise: #ff5d75 */
 }
   
 /* a::before {
@@ -64,7 +64,7 @@ p {
 
 h1 {
     color: #292929;
-    font-weight: 300;
+    font-weight: 500;
     font-size: 27px;
     text-align: left;
     margin-bottom: 20px;
@@ -72,7 +72,6 @@ h1 {
 
 h2 {
     color: #292929;
-    font-family: "system-ui";/* "Computer Modern sans", sans-serif; /*"Palatino"/* */
     font-weight: 300;
     font-size: 24px;
     text-align: left;
