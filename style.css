@@ -31,7 +31,7 @@ a {
 }
   
 a:hover {
-    color: rgb(64, 141, 112); /* red: #ff4964, cerise: #ff5d75 */
+    color: #292929; /* red: #ff4964, cerise: #ff5d75 */
 }
   
 /* a::before {
