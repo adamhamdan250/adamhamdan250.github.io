@@ -18,7 +18,7 @@ details{
 
 details > *:not(summary){
     margin-left: 0px;
-    color: #747474;
+    color: #292929;
     font-size: 16px;
 }
 
