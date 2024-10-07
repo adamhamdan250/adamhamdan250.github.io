@@ -1,6 +1,6 @@
 body{
     background-color: #ffffff; 
-    font-family: "Computer Modern Serif"; /* "system-ui", sans-serif; /*"Palatino"/* */ 
+    font-family: 'Manrope', sans-serif;/* "Computer Modern Serif"; "system-ui", sans-serif; /*"Palatino"/* */ 
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -25,7 +25,7 @@ details > *:not(summary){
 a {
     position: relative;
     font-weight: 300;
-    color: #a4a4a4; /* brown: #ac4857, pine green: #128e81, seagreen: #3d9874*/
+    color: #bd0048; /* brown: #ac4857, pine green: #128e81, seagreen: #3d9874*/
     text-decoration: none;
 }
   
@@ -64,7 +64,7 @@ p {
 h1 {
     color: #292929;
     font-family: "Computer Modern Serif";
-    font-weight: 600;
+    font-weight: 100;
     font-size: 25px;
     text-align: left;
     margin-bottom: 20px;
@@ -73,7 +73,7 @@ h1 {
 h2 {
     color: #292929;
     font-family: "Computer Modern Serif";
-    font-weight: 600;
+    font-weight: 100;
     font-size: 25px;
     text-align: left;
     margin-bottom: 40px;
