@@ -24,7 +24,7 @@ details > *:not(summary){
 
 a {
     position: relative;
-    font-weight: 300;
+    font-weight: lighter;
     color: #bd0048; /* brown: #ac4857, pine green: #128e81, seagreen: #3d9874*/
     text-decoration: none;
 }
@@ -49,14 +49,14 @@ a:hover {
 b {
     text-decoration: none;
     color: #292929;
-    font-size: 17px;
+    font-size: 16px;
     font-weight: 200;
 }
 
 p {
     color: #292929;
     line-height: 25px;
-    font-size: 17px;
+    font-size: 16px;
     font-weight: lighter;
     margin-bottom: 40px;
 }
@@ -64,20 +64,20 @@ p {
 h1 {
     color: #292929;
     font-family: "Computer Modern Serif";
-    font-weight: 100;
-    font-size: 25px;
+    font-weight: 400;
+    font-size: 23px;
     text-align: left;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 h2 {
     color: #292929;
     font-family: "Computer Modern Serif";
     font-weight: 100;
-    font-size: 25px;
+    font-size: 23px;
     text-align: left;
     margin-bottom: 40px;
-    margin-top: 30px;
+    margin-top: 10px;
 }
 
 nav {
