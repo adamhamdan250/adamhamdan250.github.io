@@ -24,13 +24,13 @@ details > *:not(summary){
 
 a {
     position: relative;
-    font-weight: lighter;
-    color: #c0102b; /* brown: #ac4857, pine green: #128e81, seagreen: #3d9874*/
-    text-decoration: none;
+    color: #292929; /* brown: #ac4857, pine green: #128e81, seagreen: #3d9874*/
+    text-decoration: underline;
 }
   
 a:hover {
     color: #292929; /* red: #ff4964, cerise: #ff5d75 */
+    text-decoration: none;
 }
   
 /* a::before {
