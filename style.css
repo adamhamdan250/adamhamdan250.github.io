@@ -1,5 +1,5 @@
 body{
-    background-color: #ffffff; 
+    background-color: #f8f8f8; 
     font-family: "Computer Modern Serif";/* "Computer Modern Serif"; "system-ui", sans-serif; /*"Palatino"/* */ 
     min-height: 100vh;
     display: flex;
@@ -25,7 +25,7 @@ details > *:not(summary){
 a {
     position: relative;
     font-weight: lighter;
-    color: #921c49; /* brown: #ac4857, pine green: #128e81, seagreen: #3d9874*/
+    color: #c0102b; /* brown: #ac4857, pine green: #128e81, seagreen: #3d9874*/
     text-decoration: none;
 }
   
