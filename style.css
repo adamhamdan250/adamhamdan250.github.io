@@ -63,9 +63,9 @@ p {
 h1 {
     color: #292929;
     font-family: "Computer Modern Serif";
-    font-weight: 400;
-    font-size: 25px;
-    text-align: left;
+    font-weight: 500;
+    font-size: 27px;
+    text-align: center;
     margin-bottom: 10px;
 }
 
@@ -73,8 +73,8 @@ h2 {
     color: #292929;
     font-family: "Computer Modern Serif";
     font-weight: 100;
-    font-size: 25px;
-    text-align: left;
+    font-size: 27px;
+    text-align: center;
     margin-bottom: 50px;
     margin-top: 10px;
 }
