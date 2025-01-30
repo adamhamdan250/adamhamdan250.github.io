@@ -55,7 +55,7 @@ b {
 
 p {
     color: #292929;
-    line-height: 25px;
+    line-height: 20px;
     font-size: 17px;
     margin-bottom: 50px;
 }
@@ -150,17 +150,16 @@ hr {
 ul {
     color: #292929;
     padding: 0;
+    line-height: 20px;
     margin-left: 20px;
     font-size: 18px;
     font-weight: 200;
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
+    list-style-type: square;
 }
 
-.custom-br::after {
-    content: "\A"; /* Inserts a line break */
-    white-space: pre; /* Ensures the line break is respected */
-    display: block;
-    line-height: 1; /* Adjust line-height to control space */
-}
+ul li {
+    margin-bottom: 20px; /* Adjust this value to increase or decrease spacing */
+  }
 
