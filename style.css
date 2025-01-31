@@ -57,7 +57,7 @@ p {
     color: #292929;
     line-height: 20px;
     font-size: 17px;
-    margin-bottom: 50px;
+    margin-bottom: 40px;
 }
 
 h1 {
@@ -74,8 +74,8 @@ h2 {
     font-family: "Computer Modern Serif";
     font-weight: 100;
     font-size: 27px;
-    text-align: center;
-    margin-bottom: 50px;
+    text-align: left;
+    margin-bottom: 40px;
     margin-top: 10px;
 }
 
@@ -108,8 +108,8 @@ nav {
 .container {
     display: flex;
     align-items: left;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
 }
 
 @media (max-width: 650px) {
