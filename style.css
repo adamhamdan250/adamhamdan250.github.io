@@ -26,6 +26,7 @@ a {
     position: relative;
     color: #292929; /* brown: #ac4857, pine green: #128e81, seagreen: #3d9874*/
     text-decoration: underline;
+    font-weight; normal;
 }
 
 b {
@@ -48,8 +49,7 @@ h1 {
     font-weight: lighter;
     font-size: 25px;
     text-align: center;
-    margin-bottom: 10px;
-    font-variant: small-caps;
+    margin-bottom: 0px;
 }
 
 h2 {
@@ -58,7 +58,7 @@ h2 {
     font-size: 25px;
     text-align: left;
     margin-bottom: 40px;
-    margin-top: 10px;
+    margin-top: 0px;
 }
 
 nav {
@@ -112,7 +112,7 @@ nav {
 #content {
     max-width: 600px;
     margin: 40px auto;
-    padding: 0 20px;
+    padding: 0 10px;
 }
 
 #clear-about {
@@ -120,11 +120,11 @@ nav {
 }
 
 ::selection {
-  background: #ebebeb; /* gray: #E0E0E0, green: #C7E5D9, pink: #F5D7DE */
+  background: #ffffff; /* gray: #E0E0E0, green: #C7E5D9, pink: #F5D7DE */
 }
 
 hr { 
-    background-color: #ebebeb; 
+    background-color: #ffffff; 
     height: 1px; 
     border: 0; 
 }
