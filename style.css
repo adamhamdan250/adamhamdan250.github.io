@@ -120,7 +120,8 @@ nav {
 }
 
 ::selection {
-  background: #ffffff; /* gray: #E0E0E0, green: #C7E5D9, pink: #F5D7DE */
+  background: #292929ec; /* gray: #E0E0E0, green: #C7E5D9, pink: #F5D7DE */
+  color: #ffffff;
 }
 
 hr { 
