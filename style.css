@@ -6,22 +6,6 @@ body{
     flex-direction: column;
 } 
 
-footer{
-    margin-top: auto;
-    margin-bottom: 20px;
-    margin-top: 60px
-}
-
-details{
-    margin-bottom: 40px;
-}
-
-details > *:not(summary){
-    margin-left: 0px;
-    color: #292929;
-    font-size: 17px;
-}
-
 a {
     position: relative;
     color: #292929; /* brown: #ac4857, pine green: #128e81, seagreen: #3d9874*/
@@ -29,17 +13,10 @@ a {
     font-weight; normal;
 }
 
-b {
-    text-decoration: none;
-    color: #292929;
-    font-size: 17px;
-    font-weight: 200;
-}
-
 p {
     color: #292929;
     font-weight: lighter;
-    line-height: 22px;
+    line-height: 25px;
     font-size: 17px;
     margin-bottom: 40px;
 }
@@ -133,7 +110,7 @@ hr {
 ul {
     color: #292929;
     padding: 0;
-    line-height: 22px;
+    line-height: 25px;
     margin-left: 0px;
     font-size: 17px;
     font-weight: 100;
