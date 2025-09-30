@@ -105,12 +105,12 @@ ul {
     color: #292929;
     padding: 0;
     line-height: 25px;
-    margin-left: 0px;
+    margin-left: 15px;
     font-size: 17px;
     font-weight: 100;
     margin-top: 20px;
     margin-bottom: 40px;
-    list-style-type: none;
+    list-style-type: square;
 }
 
 ul li {
