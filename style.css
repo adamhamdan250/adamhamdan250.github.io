@@ -97,8 +97,8 @@ nav {
 }
 
 ::selection {
-  background: #292929ec; /* gray: #E0E0E0, green: #C7E5D9, pink: #F5D7DE */
-  color: #ffffff;
+  background:#292929; /* gray: #E0E0E0, green: #C7E5D9, pink: #F5D7DE */
+  color:#ffffff;
 }
 
 ul {
