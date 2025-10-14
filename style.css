@@ -10,12 +10,12 @@ a {
     position: relative;
     color: #292929; /* brown: #ac4857, pine green: #128e81, seagreen: #3d9874*/
     text-decoration: underline;
-    font-weight: normal;
+    font-weight: lighter;
 }
 
 p {
     color: #292929;
-    font-weight: 100;
+    font-weight: lighter;
     line-height: 25px;
     font-size: 17px;
     margin-bottom: 40px;
