@@ -10,6 +10,8 @@ a {
     position: relative;
     color: #292929; /* brown: #ac4857, pine green: #128e81, seagreen: #3d9874*/
     text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
     font-weight: lighter;
 }
 
