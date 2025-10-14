@@ -1,6 +1,6 @@
 body{
     background-color: #ffffff; 
-    font-family: 'Palatino';
+    font-family: Georgia; /* Palatino is also a nice font*/
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -15,7 +15,7 @@ a {
 
 p {
     color: #292929;
-    font-weight: lighter;
+    font-weight: 100;
     line-height: 25px;
     font-size: 17px;
     margin-bottom: 40px;
