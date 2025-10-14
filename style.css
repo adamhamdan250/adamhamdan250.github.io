@@ -13,6 +13,11 @@ a {
     font-weight: lighter;
 }
 
+
+a:hover {
+    text-decoration: none;
+}
+
 p {
     color: #292929;
     font-weight: lighter;
