@@ -10,7 +10,7 @@ a {
     position: relative;
     color: #292929; /* brown: #ac4857, pine green: #128e81, seagreen: #3d9874*/
     text-decoration: underline;
-    font-weight; normal;
+    font-weight: normal;
 }
 
 p {
@@ -105,12 +105,12 @@ ul {
     color: #292929;
     padding: 0;
     line-height: 25px;
-    margin-left: 15px;
+    margin-left: 0px;
     font-size: 17px;
     font-weight: 100;
     margin-top: 20px;
     margin-bottom: 40px;
-    list-style-type: square;
+    list-style-type: none;
 }
 
 ul li {
