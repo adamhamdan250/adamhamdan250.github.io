@@ -1,6 +1,6 @@
 body{
     background-color: #ffffff; 
-    font-family: Georgia; /* Palatino is also a nice font*/
+    font-family: Georgia;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -8,7 +8,7 @@ body{
 
 a {
     position: relative;
-    color: #292929; /* brown: #ac4857, pine green: #128e81, seagreen: #3d9874*/
+    color: #292929; 
     text-decoration: underline;
     text-decoration-thickness: 1px;
     text-underline-offset: 3px;
@@ -45,21 +45,14 @@ h2 {
     margin-top: 10px;
 }
 
-nav {
-    max-width: 500px;
-    float: center;
-    margin: auto;
+.journal {
+    color: #292929;
+    font-weight: normal;
+    font-style: italic;
+    line-height: 25px;
+    font-size: 17px;
+    margin-bottom: 40px;
 }
-
-/* img {
-    display: block;
-    float: right;
-    margin-left: auto;
-    width: auto;
-    height: 200px;
-    padding: 10px;
-}
-*/
 
 .responsive-image {
     max-width: 100%;
