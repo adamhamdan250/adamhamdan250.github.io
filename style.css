@@ -10,7 +10,7 @@ body{
 
 a {
     position: relative;
-    color: #292929; 
+    color: #000000; 
     text-decoration: underline;
     text-decoration-thickness: 1px;
     text-underline-offset: 3px;
@@ -22,13 +22,13 @@ a:hover {
 }
 
 p {
-    color: #292929;
+    color: #000000;
     line-height: 25px;
     margin-bottom: 40px;
 }
 
 h1 {
-    color: #292929;
+    color: #000000;
     font-weight: 300;
     font-size: 22px;
     text-align: left;
@@ -36,7 +36,7 @@ h1 {
 }
 
 h2 {
-    color: #292929;
+    color: #000000;
     font-weight: 300;
     font-size: 22px;
     text-align: left;
@@ -45,7 +45,7 @@ h2 {
 }
 
 .journal {
-    color: #292929;
+    color: #000000;
     font-weight: 500;
     font-style: italic;
     line-height: 25px;
@@ -59,7 +59,7 @@ h2 {
     margin-right: 40px;
     margin-left: 0px;
     margin-top: 20px;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 .container {
@@ -94,13 +94,8 @@ h2 {
     clear: both;
 }
 
-::selection {
-  background:#292929; /* gray: #E0E0E0, green: #C7E5D9, pink: #F5D7DE */
-  color:#ffffff;
-}
-
 ul {
-    color: #292929;
+    color: #000000;
     padding: 0;
     line-height: 25px;
     margin-left: 0px;
