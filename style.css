@@ -22,13 +22,12 @@ a:hover {
 
 p {
     color: #000000;
-    line-height: 25px;
+    line-height: 23px;
     margin-bottom: 40px;
 }
 
 h1 {
     color: #000000;
-    font-variant: small-caps;
     font-weight: 300;
     font-size: 20px;
     text-align: left;
@@ -37,11 +36,10 @@ h1 {
 
 h2 {
     color: #000000;
-    font-variant: small-caps;
     font-weight: 300;
     font-size: 20px;
     text-align: left;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     margin-top: 10px;
 }
 
@@ -98,11 +96,11 @@ h2 {
 ul {
     color: #000000;
     padding: 0;
-    line-height: 25px;
-    margin-left: 0px;
+    line-height: 23px;
+    margin-left: 15px;
     margin-top: 20px;
     margin-bottom: 40px;
-    list-style-type: none;
+    list-style-type: disc;
 }
 
 ul li {
