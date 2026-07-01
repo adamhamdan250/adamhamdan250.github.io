@@ -10,13 +10,7 @@ body{
 
 a {
     color: #000000;
-    text-decoration: none;
-    border-bottom: 1px solid currentColor;
-    transition: border-bottom-width 0.1s ease;
-}
-
-a:hover {
-    border-bottom-width: 3px;
+    text-decoration: underline;
 }
 
 p {
