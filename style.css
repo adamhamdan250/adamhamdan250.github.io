@@ -15,7 +15,7 @@ a {
 
 p {
     color: #000000;
-    line-height: 24px;
+    line-height: 22px;
     margin-bottom: 40px;
 }
 
@@ -79,7 +79,7 @@ h2 {
 }
 
 #content {
-    max-width: 600px;
+    max-width: 650px;
     margin: 40px auto;
     padding: 30px;
 }
@@ -91,7 +91,7 @@ h2 {
 ul {
     color: #000000;
     padding: 0;
-    line-height: 24px;
+    line-height: 22px;
     margin-left: 0px;
     margin-top: 20px;
     margin-bottom: 40px;
