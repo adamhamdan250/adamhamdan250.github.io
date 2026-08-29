@@ -11,6 +11,11 @@ body{
 a {
     color: #000;
     text-decoration: underline;
+    text-underline-offset: 3px;
+}
+
+a:hover {
+    color: #777;
 }
 
 p {
@@ -101,4 +106,9 @@ ul {
 ul li {
     margin-bottom: 20px; 
   }
+
+::selection {
+    background-color: #000;
+    color: #fff;
+}
 
