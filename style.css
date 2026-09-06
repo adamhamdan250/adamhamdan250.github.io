@@ -11,11 +11,15 @@ body{
 a {
     color: #000;
     text-decoration: underline;
+    text-decoration-color: #bbb;
+    text-decoration-thickness: 1px;
     text-underline-offset: 3px;
+    transition: text-decoration-color 0.2s;
 }
 
 a:hover {
-    color: #777;
+    color: #000;
+    text-decoration-color: #000;
 }
 
 p {
