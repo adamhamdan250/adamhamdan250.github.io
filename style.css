@@ -11,7 +11,7 @@ body{
 a {
     color: #000;
     text-decoration: underline;
-    text-decoration-color: #bbb;
+    text-decoration-color: #ccc;
     text-decoration-thickness: 1px;
     text-underline-offset: 3px;
     transition: text-decoration-color 0.2s;
@@ -25,7 +25,7 @@ a:hover {
 p {
     color: #000;
     line-height: 24px;
-    margin-bottom: 40px;
+    margin-bottom: 50px;
 }
 
 h1 {
@@ -44,7 +44,7 @@ h2 {
     font-size: 18px;
     text-align: left;
     margin-bottom: 0px;
-    margin-top: 10px;
+    margin-top: 0px;
 }
 
 .journal {
@@ -61,7 +61,7 @@ h2 {
     margin-right: 30px;
     margin-left: 0px;
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 .container {
