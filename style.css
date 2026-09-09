@@ -11,7 +11,7 @@ body{
 a {
     color: #000;
     text-decoration: underline;
-    text-decoration-color: #ccc;
+    text-decoration-color: #aaa;
     text-decoration-thickness: 1px;
     text-underline-offset: 3px;
     transition: text-decoration-color 0.2s;
@@ -30,18 +30,16 @@ p {
 
 h1 {
     color: #000;
-    font-variant: small-caps;
-    font-weight: 400;
-    font-size: 20px;
+    font-weight: 500;
+    font-size: 17px;
     text-align: left;
     margin-bottom: 0px;
 }
 
 h2 {
     color: #000;
-    font-variant: small-caps;
-    font-weight: 400;
-    font-size: 18px;
+    font-weight: 500;
+    font-size: 17px;
     text-align: left;
     margin-bottom: 0px;
     margin-top: 0px;
@@ -120,6 +118,6 @@ ul li {
 
 hr {
   border: none;
-  border-top: 1px solid #000;
+  border-top: 1px solid #ddd;
 }
 
