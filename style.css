@@ -3,6 +3,7 @@ body{
     font-family: 'Libre Franklin', sans-serif;
     font-weight: 300;
     font-size: 15px;
+    line-height: 24px;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -24,7 +25,6 @@ a:hover {
 
 p {
     color: #000;
-    line-height: 24px;
     margin-bottom: 50px;
 }
 
@@ -49,14 +49,12 @@ h2 {
     color: #000;
     font-weight: 300;
     font-style: italic;
-    line-height: 24px;
     margin-bottom: 40px;
 }
 
 .paper {
     color: #000;
     font-weight: 450;
-    line-height: 24px;
 }
 
 .responsive-image {
@@ -106,7 +104,6 @@ h2 {
 ul {
     color: #000;
     padding: 0;
-    line-height: 24px;
     margin-left: 0px;
     margin-top: 20px;
     margin-bottom: 50px;
@@ -114,7 +111,7 @@ ul {
 }
 
 ul li {
-    margin-bottom: 30px; 
+    margin-bottom: 20px; 
   }
 
 ::selection {
