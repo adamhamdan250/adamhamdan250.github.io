@@ -4,14 +4,14 @@ body {
     font-family: "Libre Franklin", sans-serif;
     font-weight: 300;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
 }
 
 #content {
-    max-width: 650px;
+    max-width: 700px;
     margin: 40px auto;
     padding: 20px;
 }
