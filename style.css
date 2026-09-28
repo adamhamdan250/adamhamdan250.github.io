@@ -11,21 +11,20 @@ body {
 }
 
 #content {
-    max-width: 700px;
+    max-width: 650px;
     margin: 40px auto;
     padding: 20px;
 }
 
 a {
     color: #000;
-    text-decoration-color: #ccc;
-    text-decoration-thickness: 1px;
-    text-underline-offset: 3px;
-    transition: text-decoration-color 0.2s;
+    text-decoration-color: #000;
+    text-underline-offset: 2px;
 }
 
 a:hover {
-    text-decoration-color: #000;
+    color: #aaa;
+    text-decoration-color: #aaa;
 }
 
 p {
@@ -43,11 +42,11 @@ h2 {
 }
 
 .paper {
-    font-weight: 400;
+    font-weight: 300;
 }
 
 .journal {
-    font-weight: 300;
+    font-weight: 600;
     font-style: italic;
     margin-bottom: 40px;
 }
