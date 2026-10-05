@@ -1,9 +1,9 @@
 body {
     background: #fff;
     color: #333;
-    font-family: "Libre Franklin", sans-serif;
-    font-weight: 300;
-    font-size: 16px;
+    font-family: "Source Sans 3", sans-serif;
+    font-weight: 350;
+    font-size: 17px;
     line-height: 1.5;
     min-height: 100vh;
     display: flex;
@@ -19,12 +19,7 @@ body {
 a {
     color: #333;
     text-decoration-color: #333;
-    text-underline-offset: 2px;
-}
-
-a:hover {
-    color: #aaa;
-    text-decoration-color: #aaa;
+    text-underline-offset: 3px;
 }
 
 p {
@@ -32,8 +27,8 @@ p {
 }
 
 h1, h2 {
-    font-weight: 500;
-    font-size: 18px;
+    font-weight: 450;
+    font-size: 20px;
     margin-bottom: 0;
 }
 
@@ -42,11 +37,11 @@ h2 {
 }
 
 .paper {
-    font-weight: 300;
+    font-weight: 350;
 }
 
 .journal {
-    font-weight: 300;
+    font-weight: 350;
     font-style: italic;
     margin-bottom: 40px;
 }
