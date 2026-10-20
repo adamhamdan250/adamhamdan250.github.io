@@ -19,7 +19,12 @@ body {
 a {
     color: #222;
     text-decoration-color: #222;
+    text-decoration-thickness: 1px;
     text-underline-offset: 3px;
+}
+
+a:has(.paper) {
+    text-decoration: none;
 }
 
 p {
@@ -37,7 +42,7 @@ h2 {
 }
 
 .paper {
-    font-weight: 350;
+    font-weight: 450;
 }
 
 .journal {
