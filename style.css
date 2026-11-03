@@ -23,10 +23,6 @@ a {
     text-underline-offset: 3px;
 }
 
-a:has(.paper) {
-    text-decoration: none;
-}
-
 p {
     margin-bottom: 50px;
 }
