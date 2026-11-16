@@ -2,11 +2,13 @@ body {
     background: #fff;
     color: #222;
     font-family: "Source Sans 3", sans-serif;
-    font-weight: 350;
+    font-weight: 400;
     font-size: 17px;
     line-height: 1.5;
     min-height: 100vh;
     display: flex;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
     flex-direction: column;
 }
 
@@ -28,7 +30,7 @@ p {
 }
 
 h1, h2 {
-    font-weight: 400;
+    font-weight: 500;
     font-size: 20px;
     margin-bottom: 0;
 }
@@ -38,7 +40,7 @@ h2 {
 }
 
 .paper {
-    font-weight: 350;
+    font-weight: 400;
 }
 
 .journal {
