@@ -4,7 +4,7 @@ body {
     font-family: "Source Sans 3", sans-serif;
     font-weight: 350;
     font-size: 17px;
-    line-height: 1.5;
+    line-height: 1.4;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -38,11 +38,11 @@ h2 {
 }
 
 .paper {
-    font-weight: 450;
+    font-weight: 350;
 }
 
 .journal {
-    font-weight: 350;
+    font-weight: 650;
     font-style: italic;
     margin-bottom: 40px;
 }
@@ -65,7 +65,7 @@ ul {
 }
 
 li {
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 hr {
