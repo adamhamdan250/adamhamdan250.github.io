@@ -24,7 +24,14 @@ a {
     color: #222;
     text-decoration-color: #222;
     text-decoration-thickness: 1px;
-    text-underline-offset: 1px;
+    text-underline-offset: 1.5px;
+}
+
+a:hover {
+    color: #222;
+    text-decoration-color: #222;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 1.5px;
 }
 
 p {
